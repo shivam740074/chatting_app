@@ -17,9 +17,8 @@ body {
   height: 55px;
   width: 720px;
   border-radius: 8px 8px 0 0;
-  background: #24C6DC;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #514A9D, #24C6DC);
-background: linear-gradient(to right, #514A9D, #24C6DC);
+  /* background-color: #d58ebf; */
+  background-color: #4caA2B;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -33,7 +32,8 @@ background: linear-gradient(to right, #514A9D, #24C6DC);
 .container {
   width: 800px;
   height: 720px;
-  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  /* background-color: #e2a8be; */
+  background-color: #AECF80;
   overflow-y: auto;
 }
 
